@@ -4,9 +4,7 @@
 
 The goal is simple:
 
-```text
-Build a public "atlas" of effective prompts that anyone can use, learn from, and contribute to.
-```
+*Build a public "atlas" of effective prompts that anyone can use, learn from, and contribute to.*
 
 ## Why PromptAtlas?
 
