@@ -1,6 +1,6 @@
 # PromptAtlas
 
-**PromptAtlas** is an open repository for sharing high-quality prompts for Large Language Models (LLMs).
+**PromptAtlas** is an open-source project for sharing high-quality prompts for Large Language Models (LLMs).
 
 The goal is simple:
 
